@@ -1,0 +1,13 @@
+Linear-Regression-on-Simple-Dataset/
+│
+├── data/
+│     └── advertising.csv
+│
+├── src/
+│     └── model.py
+│
+├── outputs/
+│     └── actual_vs_predicted.png
+│
+├── requirements.txt
+├── README.md
